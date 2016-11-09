@@ -1,6 +1,6 @@
 # Viper Template
 
-Generates config tables.
+Generates config template file.
 
 ## Example usage
 
